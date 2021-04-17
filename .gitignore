@@ -1,0 +1,4 @@
+**/node_modules
+ta_config.js
+yarn.lock
+package-lock.json
