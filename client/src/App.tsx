@@ -35,7 +35,7 @@ const App = () => {
         <Header>
           <div className="header-row" >
             <div className="logo-container">
-              <h1>Remote teaching assistant</h1>
+              <h1>Remote teaching assistant joseph</h1>
             </div>
             <div className="language-selection-zone">
               <Link className="language-selection-text" to={"/login"}  ><span>{username}</span></Link>
